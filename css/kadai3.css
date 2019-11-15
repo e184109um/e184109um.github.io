@@ -1,0 +1,22 @@
+h1{
+    color: azure;
+    text-align: center;
+    background-color: black;
+}
+body{
+    background-image: url("../images/haikei.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+h2{
+    color: palevioletred;
+    text-align: center;
+    background-color: antiquewhite;
+}
+h3{
+    color: darkslateblue
+}
+p{
+    color: darkgreen
+}
