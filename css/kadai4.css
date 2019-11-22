@@ -1,0 +1,26 @@
+body{
+    background-image: url("../images/haikei.jpg");
+    background-repeat: repeat;
+    background-attachment: fixed;
+    background-position: bottom right;
+}
+h1{
+    color: azure;
+    text-align: center;
+    background-color: black;
+}
+h1#link{
+    color: bisque;
+    text-align: center;
+    background-color: darkslateblue
+}
+h2.MC{
+    color:darkgray;
+    text-align: center;
+    background-color:forestgreen;
+}
+h2.ika{
+    color:chartreuse;
+    text-align: center;
+    background-color:deeppink;
+}
